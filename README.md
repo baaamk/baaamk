@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to;Bang+Bang+Bang+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=2000&color=09F2F7&center=true&vCenter=true&multiline=true&width=435&lines=Welcom+to+Bang+Bang+Bang+GitHub!!)](https://git.io/typing-svg)
